@@ -70,7 +70,7 @@ print(30*"═")
 
 ## Hasil Output
 
-![gambar output](gambar/hasillatihan5.png)
+![gambar output](gambar/screenshot(16).png)
 
 ## Soal Praktikum 5
 
